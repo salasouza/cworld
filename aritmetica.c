@@ -1,4 +1,4 @@
-/* imprimir a tabela de conversão Fahreinth-Celsius para f=0,20,,,,300
+/* imprimir a tabela de conversão Fahreinth-Celsius para f=0,20,300, ...
 */
 
 main()
