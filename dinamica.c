@@ -9,6 +9,7 @@ int main() {
     int vetor[10];
 
     printf("%li\n", sizeof(vetor));
+    
     //printf("%li", sizeof(y));
     
     return 0; 
