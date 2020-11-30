@@ -13,5 +13,4 @@ int main() {
     
     printf("Integer %i is located at address %c\n", array[index], &array[index]);
   }
-  
 }
