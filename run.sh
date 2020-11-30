@@ -2,7 +2,7 @@
 
 PROGRAM=$1
 
-gcc $PROGRAM.c -o build/$PROGRAM
+gcc src/$PROGRAM.c -o build/$PROGRAM
 
 ./build/$PROGRAM "${@:2}";
 exitcode=$?
